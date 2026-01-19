@@ -1,0 +1,7 @@
+{
+  "name": "Core Intelligence CRM & Inventory",
+  "description": "A sophisticated AI-powered business ledger that processes documents, manages inventory, and tracks customer history using Gemini 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
